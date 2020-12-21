@@ -1,2 +1,2 @@
 # mysql
-黑马mysql的笔记
+mysql的笔记
